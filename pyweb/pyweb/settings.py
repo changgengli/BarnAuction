@@ -26,8 +26,6 @@ TEMPLATE_DEBUG = True
 
 ALLOWED_HOSTS = []
 
-TEMPLATE_LOADERS = ['admin_tools.template_loaders.Loader']
-
 
 # Application definition
 
